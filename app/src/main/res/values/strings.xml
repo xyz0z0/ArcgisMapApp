@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arcgis示例</string>
+
+    <string name="simple_map">基础地图展示</string>
+    <string name="add_point">添加点</string>
+    <string name="add_line">添加线</string>
+    <string name="add_area">添加面</string>
+</resources>
